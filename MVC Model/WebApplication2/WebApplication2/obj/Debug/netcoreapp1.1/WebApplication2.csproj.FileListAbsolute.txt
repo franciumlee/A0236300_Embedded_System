@@ -1,0 +1,10 @@
+E:\Git\A0236300_Embedded_System\MVC Model\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.deps.json
+E:\Git\A0236300_Embedded_System\MVC Model\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.runtimeconfig.json
+E:\Git\A0236300_Embedded_System\MVC Model\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.runtimeconfig.dev.json
+E:\Git\A0236300_Embedded_System\MVC Model\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.dll
+E:\Git\A0236300_Embedded_System\MVC Model\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.pdb
+E:\Git\A0236300_Embedded_System\MVC Model\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.csprojResolveAssemblyReference.cache
+E:\Git\A0236300_Embedded_System\MVC Model\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.csproj.CoreCompileInputs.cache
+E:\Git\A0236300_Embedded_System\MVC Model\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.AssemblyInfo.cs
+E:\Git\A0236300_Embedded_System\MVC Model\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.dll
+E:\Git\A0236300_Embedded_System\MVC Model\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.pdb
